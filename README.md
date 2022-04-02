@@ -1,8 +1,9 @@
-# Halo semua! 
+# Hi Everyone! 
 
-Perkenalkan nama saya **Arief Aryudi Syidik**.  
-Saya seorang Mahasiswa di Universitas Teknokrat Indonesia dan tertarik pada bidang Mobile Development
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ariefaryudisyidik/)ku ya.
+Hello i'm **Arief Aryudi Syidik**  
+a Informatics student from Universitas Teknokrat Indonesia.
+<br>I love to learn about Problem Solving, Software Development, and UI/UX Design
+<br>If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/ariefaryudisyidik/).
 
 <p align="left">
 <a href="https://github.com/ariefaryudisyidik">
