@@ -1,7 +1,7 @@
 # Hi Everyone! 
 
 Hello i'm **Arief Aryudi Syidik**  
-a Informatics student from Universitas Teknokrat Indonesia.
+a Bachelor of Computer in Informatics from Universitas Teknokrat Indonesia.
 <br>I love to learn about Problem Solving, Software Development, and UI/UX Design
 <br>If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/ariefaryudisyidik/).
 
