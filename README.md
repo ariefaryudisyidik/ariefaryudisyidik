@@ -1,5 +1,7 @@
 # Hi Everyone! 
 
+![Profile views](https://komarev.com/ghpvc/?username=ariefaryudisyidik&color=3DDC84&style=for-the-badge)
+
 Hello i'm **Arief Aryudi Syidik**  
 a Bachelor of Computer in Informatics from Universitas Teknokrat Indonesia.
 <br>I love to learn about Problem Solving, Software Development, and UI/UX Design
